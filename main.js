@@ -1,3 +1,4 @@
+//Music Player:
 import './style.css'
 
 // ===== Track Data =====
@@ -31,7 +32,7 @@ const tracks = [
   },
   {
     id: 4,
-    title: "Without You",
+    title: "By Allah",
     artist: "Nadeem Mohammed",
     cover: "https://images.pexels.com/photos/8832092/pexels-photo-8832092.jpeg?auto=compress&cs=tinysrgb&h=300&w=300",
     audio: "https://archive.org/download/NASHEEDNEW_201803/Nadeem%20Mohammed%20-%20By%20Allah%20%28Official%20Acapella%20Video%29.mp3",
@@ -40,7 +41,7 @@ const tracks = [
   },
   {
     id: 5,
-    title: "Turner of Hearts",
+    title: "Subhan'Allah",
     artist: "Nadeem Mohammed",
     cover: "https://images.pexels.com/photos/38366758/pexels-photo-38366758.jpeg?auto=compress&cs=tinysrgb&h=300&w=300",
     audio: "https://archive.org/download/NASHEEDNEW_201803/04.Nadeem%20Mohammed%20-%20Subhan%27Allah%20%28Official%20Acapella%20Video%29.mp3",
@@ -105,7 +106,7 @@ const tracks = [
     id: 12,
     title: "Palestine (Vocals Only)",
     artist: "Muad",
-    cover: "https://images.unsplash.com/photo-1587049352847-4a222e784d38?auto=format&fit=crop&w=300&h=300&q=80",
+    cover: "https://images.unsplash.com/photo-1541432901042-2d8bd64b4a9b?auto=format&fit=crop&w=300&h=300&q=80",
     audio: "https://archive.org/download/mixvocalonlynasheeds/Freedom_-_Vocal.mp3",
     genre: "Free Palestine",
     duration: "3:45"

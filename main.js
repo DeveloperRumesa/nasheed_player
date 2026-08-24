@@ -183,7 +183,7 @@ app.innerHTML = `
     <aside class="sidebar">
       <div class="brand">
         <div class="brand-logo">${ICONS.wave}</div>
-        <span class="brand-name">Wave</span>
+        <span class="brand-name">Peace Player</span>
       </div>
       <div class="search-wrap">
         ${ICONS.search}

@@ -1,3 +1,5 @@
+// Force Document Title on Load
+document.title = "Peace Player — Quran & Nasheed Player"
 //Music Player:
 import './style.css'
 
